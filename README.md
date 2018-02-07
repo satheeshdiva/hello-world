@@ -1,2 +1,2 @@
 # hello-world
-my first git project
+my name is satheesh and i am software developer.
